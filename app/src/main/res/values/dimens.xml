@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="error">128dp</dimen>
+    <dimen name="loading">128dp</dimen>
+    <dimen name="card_margin">12dp</dimen>
+    <dimen name="card_country_code_margin">16dp</dimen>
+    <dimen name="recyclerview_top_margin">8dp</dimen>
+    <dimen name="card_country_code_text_size">20sp</dimen>
+</resources>
